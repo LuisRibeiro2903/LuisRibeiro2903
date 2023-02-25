@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Luís Ribeiro!</h1>
+<h3 align="center">A Software Engineering student!</h3>
 
-<!--
-**LuisRibeiro2903/LuisRibeiro2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at **University of Minho**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently trying to master my coding skills
+
+- 📫 How to reach me: **luisribeiro2903@gmail.com** or any social media linked
+
+<h3 align="left">My links:</h3>
+<p align="left>
+<a href="https://www.instagram.com/luis.s.ribeiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis.s.ribeiro" height="40" width="50" /></a>
+<a href="https://twitter.com/luissribeiro29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luissribeiro29" height="40" width="50" /></a>
+<a href="https://discord.gg/_Luis_#2917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Luis_#2917" height="40" width="50" /></a>
