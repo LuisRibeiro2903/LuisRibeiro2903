@@ -10,6 +10,7 @@
 
 <h3 align="left">My links:</h3>
 <p align="left>
-<a href="https://www.instagram.com/luis.s.ribeiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis.s.ribeiro" height="40" width="50" /></a>
+
+<a href="https://instagram.com/luis.s.ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis.s.ribeiro" height="40" width="50" /></a>
 <a href="https://twitter.com/luissribeiro29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luissribeiro29" height="40" width="50" /></a>
 <a href="https://discord.gg/_Luis_#2917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Luis_#2917" height="40" width="50" /></a>
